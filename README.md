@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+<big><big>Project Preview</big></big>
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/ad133711-014a-450f-918f-ced3b59c7205" />
 </div>
 
 # Run and deploy your AI Studio app
@@ -21,4 +21,4 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
    `npm run dev`
 =======
 # College_Query-AI
->>>>>>> 388b5e18926d4e3b3fa83e87ba1702c6425083af
+http://localhost:5173/
