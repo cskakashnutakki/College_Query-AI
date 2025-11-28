@@ -9,23 +9,35 @@ An intelligent college research assistant for India powered by Gemini. Ask about
 
 # Features
 🤖 AI-powered responses using Google's Gemini API
+
 🎓 Comprehensive college information (IITs, NITs, IIITs, Private Universities)
+
 📚 Entrance exam guidance (JEE, NEET, CAT, CUET, GATE)
+
 💼 Placement statistics and campus facilities
+
 🔍 Real-time search with Google grounding for accurate, up-to-date information
+
 📱 Responsive design with modern UI
+
 ⚡ Fast and intuitive chat interface
 
 # Tech Stack
 Frontend: React 19, TypeScript, Tailwind CSS
+
 Build Tool: Vite
+
 AI: Google Gemini 2.5 Flash with Search Grounding
+
 Icons: Lucide React
+
 Deployment: Ready for static hosting
 
 # Prerequisites
 Node.js (v18 or higher)
+
 npm or yarn
+
 Google Gemini API key
 
 
@@ -128,6 +140,13 @@ Made with ❤️ for Indian students
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
+
+Run 
+```
+npm run dev
+```
+
+host
 
 http://localhost:5173/
 
