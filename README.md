@@ -1,11 +1,13 @@
 # College_Query-AI
 An intelligent college research assistant for India powered by Gemini. Ask about IITs, entrance exams, placements, and get real-time, sourced answers.
 
+# Project Preview
+
 <div align="center">
 <img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/ad133711-014a-450f-918f-ced3b59c7205" />
 </div>
 
-Features
+# Features
 🤖 AI-powered responses using Google's Gemini API
 🎓 Comprehensive college information (IITs, NITs, IIITs, Private Universities)
 📚 Entrance exam guidance (JEE, NEET, CAT, CUET, GATE)
@@ -14,14 +16,14 @@ Features
 📱 Responsive design with modern UI
 ⚡ Fast and intuitive chat interface
 
-Tech Stack
+# Tech Stack
 Frontend: React 19, TypeScript, Tailwind CSS
 Build Tool: Vite
 AI: Google Gemini 2.5 Flash with Search Grounding
 Icons: Lucide React
 Deployment: Ready for static hosting
 
-**Prerequisites:**  
+# Prerequisites
 Node.js (v18 or higher)
 npm or yarn
 Google Gemini API key
@@ -33,7 +35,7 @@ Google Gemini API key
 3. Run the app:
    `npm run dev`
 
-Installation
+# Installation
 
 Clone the repository:
 ```
@@ -54,7 +56,7 @@ npm run dev
 Open http://localhost:5173 in your browser.
 ```
 
-Usage
+# Usage
 Open the application in your browser
 Start chatting with the AI assistant
 Ask questions about:
@@ -74,7 +76,7 @@ npm run build
 ```
 The built files will be in the dist directory, ready for deployment to any static hosting service.
 
-Project Structure
+# Project Structure
 ```
 collegequery-ai/
 ├── public/
@@ -97,7 +99,7 @@ collegequery-ai/
 ├── vite.config.ts
 └── README.md
 ```
-Contributing
+# Contributing
 ```
 Fork the repository
 Create a feature branch (git checkout -b feature/amazing-feature)
@@ -105,17 +107,17 @@ Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 ```
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+# Acknowledgments
 Built with React
 Powered by Google Gemini
 Styled with Tailwind CSS
 Icons from Lucide React
 
 
-Disclaimer
+# Disclaimer
 AI can make mistakes. Verify important admissions information with official university websites.
 
 Made with ❤️ for Indian students
@@ -127,9 +129,6 @@ Made with ❤️ for Indian students
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
-## Run Locally
 http://localhost:5173/
 
 
